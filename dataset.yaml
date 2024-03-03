@@ -1,0 +1,5 @@
+train: C:\Users\pc\Desktop\ProyectoAplicaciones\Vocales\Dataset\train
+val: C:\Users\pc\Desktop\ProyectoAplicaciones\Vocales\Dataset\val
+test:
+nc: 5
+names: ['I', 'A', 'O', 'U', 'E']
